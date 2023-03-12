@@ -1,8 +1,5 @@
 from flask import Flask, request, make_response, render_template, redirect, url_for
 from flask.helpers import url_for
-import streamlit as st
-import streamlit.components.v1 as stc
-from PIL import Image
 import pandas as pd
 # import warnings
 # warnings.filterwarnings('ignore')
